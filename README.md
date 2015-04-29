@@ -10,4 +10,4 @@ Default: OP
 ## Coming Features
 - Proxy Logging
 - Set lobbys
-- Hook up names to servers (/join <SERVERNAME)
+- Hook up names to servers (/join <SERVERNAME>)
