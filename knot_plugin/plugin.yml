@@ -9,7 +9,7 @@ load: STARTUP
 
 author: shoghicp
 
-website: "https://github.com/shoghicp/FastTransfer"
+website: "https://github.com/TheLucyClubMCPE/"
 
 description: "Tie servers together with the amazing Knot!"
 
@@ -17,13 +17,14 @@ commands:
 
  transfer:
 
-  permission: fasttransfer.command.transfer
+  permission: knot.command.server
 
   usage: "/server [player] <address> <port>"
 
 permissions:
+
  fasttransfer.command.transfer:
 
-  description: "Allows to transfer players to another server"
+  description: "Allows players to change servers"
 
-  default: true
+  default: op
