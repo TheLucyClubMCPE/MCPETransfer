@@ -7,3 +7,7 @@ Description: Transfer players to another server
 Permission: knot.command.server
 Default: OP
 ```
+## Coming Features
+- Proxy Logging
+- Set lobbys
+- Hook up names to servers (/join <SERVERNAME)
