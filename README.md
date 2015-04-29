@@ -1,3 +1,5 @@
+# *Note*:
+**This plugin would not be possible without @shoghicp 's FastTransfer plugin. All credit for the /server <IP> <PORT> goes to him.**
 # Knot
 A pocketmine plugin that allows proxying through the client
 ## Commands & Permissions
