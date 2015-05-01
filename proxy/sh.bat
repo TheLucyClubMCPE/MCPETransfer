@@ -1,3 +1,3 @@
-@exit 1
-start mintty.exe
+@echo off
+start mcpe-transfer.exe
 exit 1
