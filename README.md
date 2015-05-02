@@ -13,5 +13,6 @@ Default: OP
 - Proxy Logging
 - Set lobbys
 - Hook up names to servers (/join <SERVERNAME>)
+
 ## ChangeMyServer
 This plugin comes with a built-in version of [FastTransfer](https://github.com/shoghicp/FastTransfer) by [@shoghicp](https://github.com/shoghicp/) called **ChangeMyServer**. Now, all this plugin does is redirect the client.
