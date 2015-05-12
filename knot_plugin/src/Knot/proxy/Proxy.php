@@ -1,7 +1,0 @@
-<?php
-
-/*
-*
-* Not ready yet
-*
-*/
