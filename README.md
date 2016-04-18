@@ -1,2 +1,1 @@
-# Plugin Re-Write Soon
-OUTDATED -- Wait until plugin is updated, or go ahead and try.
+Moved (HERE)[HTTPS://github.com/iServer-Project/PocketTransfer/].
